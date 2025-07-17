@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://connectcgh.github.io/cn/test/</loc>
+    
+    <lastmod>2025-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://connectcgh.github.io/tags/index.html</loc>
     
     <lastmod>2025-07-16</lastmod>
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://connectcgh.github.io/cn/Hexo-Theme-LiveMyLife/</loc>
+    <loc>https://connectcgh.github.io/en/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2020-04-16</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://connectcgh.github.io/en/Hexo-Theme-LiveMyLife/</loc>
+    <loc>https://connectcgh.github.io/cn/Hexo-Theme-LiveMyLife/</loc>
     
     <lastmod>2020-04-16</lastmod>
     
