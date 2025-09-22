@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://connectcgh.github.io/cn/test/</loc>
+    <loc>https://connectcgh.github.io/about/index.html</loc>
+    
+    <lastmod>2025-09-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://connectcgh.github.io/cn/PyQt%20Widgets/</loc>
     
     <lastmod>2025-07-17</lastmod>
     
@@ -38,24 +47,6 @@
   </url>
   
   <url>
-    <loc>https://connectcgh.github.io/cn/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://connectcgh.github.io/en/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://connectcgh.github.io/archive/index.html</loc>
     
     <lastmod>2017-03-20</lastmod>
@@ -64,27 +55,32 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://connectcgh.github.io/about/index.html</loc>
-    
-    <lastmod>2016-04-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://connectcgh.github.io/</loc>
-    <lastmod>2025-07-17</lastmod>
+    <lastmod>2025-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://connectcgh.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2025-07-17</lastmod>
+    <loc>https://connectcgh.github.io/tags/Python/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://connectcgh.github.io/tags/GUI/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://connectcgh.github.io/tags/Qt/</loc>
+    <lastmod>2025-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -92,8 +88,15 @@
 
   
   <url>
-    <loc>https://connectcgh.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2025-07-17</lastmod>
+    <loc>https://connectcgh.github.io/categories/GUI/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://connectcgh.github.io/categories/GUI/Python/</loc>
+    <lastmod>2025-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
