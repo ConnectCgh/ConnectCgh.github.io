@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://connectcgh.github.io/cn/CT1/</loc>
+    
+    <lastmod>2025-09-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://connectcgh.github.io/about/index.html</loc>
     
     <lastmod>2025-09-22</lastmod>
@@ -65,6 +74,13 @@
 
   
   <url>
+    <loc>https://connectcgh.github.io/tags/%E7%BC%96%E8%AF%91%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://connectcgh.github.io/tags/Python/</loc>
     <lastmod>2025-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -86,6 +102,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://connectcgh.github.io/categories/%E7%BC%96%E8%AF%91%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://connectcgh.github.io/categories/GUI/</loc>
